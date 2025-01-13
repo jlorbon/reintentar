@@ -1,7 +1,6 @@
 <a name="top"></a>
 Índice de contenidos.
 Encabezados de nivel 1, 2, 3, y 4.
----
 # Encabezado nivel 1.
 ## Encabezado nivel 2.
 ### Encabezado nivel 3.
@@ -30,6 +29,7 @@ Listas sin orden (usa distintos niveles)
         </ul>
 </ul>
 Listas ordenadas (usa distintos niveles)
+---
 <ol>
     <li>Primero</li>
     <li>Segundo</li>
