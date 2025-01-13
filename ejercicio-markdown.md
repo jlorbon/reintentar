@@ -101,3 +101,28 @@ Fórmulas matemáticas
 
 
 <a name="bot"></a>
+
+
+Saltos de línea [1](#1)
+Texto entre <br> saltos de linea.
+
+Lista de tareas
+- [x] Elemento 1
+- [ ] Elemento 2
+- [ ] Elemento 3
+
+Emojis
+Emojis por código: :sunglasses::joy::car:
+Emojis copypaste: ✨✅🔥
+
+Referencias
+
+Referencias al pie
+
+Fórmulas matemáticas
+
+
+<a name="bot"></a>
+
+[#1]
+(#1)
