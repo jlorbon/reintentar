@@ -74,9 +74,11 @@ Estilo markdown:
 Estilo html:
 <a href="https://github.com/jlorbon/reintentar/blob/main/ejercicio-markdown.md" target="_blank">MD realista en mi GitHub (en proceso).</a>
 
-Enlaces a otros elementos del mismo documento (encabezados u otros) <br>
-[Ir al principio.](#top) <br>
-[Ir al final.](#bot) <br>
+Enlaces a otros elementos del mismo documento (encabezados u otros)
+
+[Ir al principio.](#top)
+
+[Ir al final.](#bot)
 
 Imágenes externas
 
