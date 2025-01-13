@@ -65,7 +65,11 @@ Citas
 >> **Buda.**
 
 Enlaces a páginas o elementos externos <br>
+Estilo markdown:
 [MD realista en mi GitHub (en proceso).](https://github.com/jlorbon/reintentar/blob/main/ejercicio-markdown.md)
+
+Estilo html:
+<a href="https://github.com/jlorbon/reintentar/blob/main/ejercicio-markdown.md" target="_blank">MD realista en mi GitHub (en proceso).</a>
 
 Enlaces a otros elementos del mismo documento (encabezados u otros) <br>
 [Ir al principio.](#top) <br>
@@ -74,6 +78,7 @@ Enlaces a otros elementos del mismo documento (encabezados u otros) <br>
 Imágenes externas
 
 Imágenes con enlace
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 
 Tablas
 
