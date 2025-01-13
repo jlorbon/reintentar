@@ -29,7 +29,9 @@ Listas sin orden (usa distintos niveles)
         </ul>
 </ul>
 Listas ordenadas (usa distintos niveles)
+
 ---
+
 <ol>
     <li>Primero</li>
     <li>Segundo</li>
