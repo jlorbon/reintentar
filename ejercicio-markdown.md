@@ -64,12 +64,12 @@ Citas
 > *"No lastimes a los demás con lo que te causa dolor a ti mismo."*
 >> **Buda.**
 
-Enlaces a páginas o elementos externos
+Enlaces a páginas o elementos externos <br>
 [MD realista en mi GitHub (en proceso).](https://github.com/jlorbon/reintentar/blob/main/ejercicio-markdown.md)
 
-Enlaces a otros elementos del mismo documento (encabezados u otros)
-[Ir al principio.](#top)
-[Ir al final.](#bot)
+Enlaces a otros elementos del mismo documento (encabezados u otros) <br>
+[Ir al principio.](#top) <br>
+[Ir al final.](#bot) <br>
 
 Imágenes externas
 
