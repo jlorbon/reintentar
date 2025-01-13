@@ -124,5 +124,5 @@ Fórmulas matemáticas
 
 <a name="bot"></a>
 
-[#1]
-(#1)
+[#1]: asdf
+(#1): asdf
