@@ -1,6 +1,7 @@
 <a name="top"></a>
 Índice de contenidos.
 Encabezados de nivel 1, 2, 3, y 4.
+---
 # Encabezado nivel 1.
 ## Encabezado nivel 2.
 ### Encabezado nivel 3.
