@@ -175,6 +175,4 @@ ___
     - $x=\frac{-b±\sqrt{b^2-4ac}}{2a}$
 - [Volver al Índice.](#indice)
 
-abajo {#bot}
-
-<a name="bo"></a>
+<a name="bot"></a>
