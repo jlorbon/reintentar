@@ -174,5 +174,5 @@ ___
 - Fórmulas matemáticas <a name="matematica"></a>
     - $x=\frac{-b±\sqrt{b^2-4ac}}{2a}$
 - [Volver al Índice.](#indice)
-
-<a name="bot"></a>
+{#bot}
+<a name="bo"></a>
